@@ -3,8 +3,8 @@
 This repository contains five shell scripts and a comprehensive report outline covering the "Open Source Audit" capstone project for the chosen open source software: **Python**.
 
 ## Developer Information
-- **Student Name**: Shree Nigam
-- **Registration Number**: 24BAI10688
+- **Student Name**: Darsh Shukla
+- **Registration Number**: 24BAS10080
 - **Chosen Software**: Python
 
 ## Project Shell Scripts
